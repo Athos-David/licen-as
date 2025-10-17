@@ -1,2 +1,2 @@
-ADM=ativo
+ADM=inativo
 MMunhoz=ativo
